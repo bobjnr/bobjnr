@@ -29,9 +29,7 @@ Tools      → Git, Expo EAS, TestFlight, Docker
 
 ## 📊 GitHub Stats
 
-![Ekene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bobjnr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bobjnr&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=bobjnr&theme=tokyonight&hide_border=true)
 
 ---
 
