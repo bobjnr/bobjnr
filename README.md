@@ -8,11 +8,11 @@ Based in Lagos, Nigeria 🇳🇬 · Open to remote roles & contracts worldwide
 
 ## 🚀 What I'm Building
 
-### [Ndara.AI](https://github.com/ndaraAI-project/ndara-mobile) — AI-Powered Business Management App
+### [Ndara.AI](https://github.com/bobjnr/ndara-ai) — AI-Powered Business Management App
 An all-in-one mobile platform for SMEs — inventory, invoicing, real-time messaging, and AI-driven business insights.
 `React Native` `Expo` `TypeScript` `Firebase` `REST APIs`
 
-### [QuanVaulte](https://github.com/Quanvaulte/mobile_app) — EdTech Mobile App
+### [QuanVaulte](https://github.com/bobjnr/quanvaulte) — EdTech Mobile App
 A cross-platform platform connecting students, parents, and teachers — multi-role auth, dashboards, and academic tracking.
 `React Native` `Expo Router` `TypeScript`
 
